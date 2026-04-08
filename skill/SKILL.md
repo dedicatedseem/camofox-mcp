@@ -1,5 +1,5 @@
 ---
-name: skill
+name: camofox-skill
 title: CamoFox MCP for OpenClaw
 version: 1.10.0
 description: Anti-detection browser automation MCP skill for OpenClaw agents with 41 tools for navigation, interaction, extraction, downloads, profiles, sessions, and stealth web search.
